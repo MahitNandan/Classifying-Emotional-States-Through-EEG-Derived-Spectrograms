@@ -19,7 +19,7 @@ Our project explored the feasibility of classifying six human emotions (fear, an
 ## Publication
 Our findings were published in the following conference paper:
 
-**Classifying Emotional States Through EEG-Derived Spectrograms**  
+**[Classifying Emotional States Through EEG-Derived Spectrograms](https://ieeexplore.ieee.org/document/10581899)**  
 A D Mahit Nandan, Dhiraj Choudhary D, Ishan Godbole, and Anand Kumar M  
 *2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)*  
 
