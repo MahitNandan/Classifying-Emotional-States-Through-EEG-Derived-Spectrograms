@@ -77,9 +77,6 @@ We plan to enhance classification performance by:
 
 Affiliation: National Institute of Technology Karnataka (NITK), Department of Information Technology
 
-## Contact
-For any questions or collaborations, please reach out via the competition platform or contact the authors.
-
 ---
 
 Thank you for exploring our project!
